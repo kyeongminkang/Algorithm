@@ -1,0 +1,6 @@
+C:\Users\Gluwa\source\repos\ConsoleApp1\DigitsNo\bin\Debug\DigitsNo.exe.config
+C:\Users\Gluwa\source\repos\ConsoleApp1\DigitsNo\bin\Debug\DigitsNo.exe
+C:\Users\Gluwa\source\repos\ConsoleApp1\DigitsNo\bin\Debug\DigitsNo.pdb
+C:\Users\Gluwa\source\repos\ConsoleApp1\DigitsNo\obj\Debug\DigitsNo.csproj.CoreCompileInputs.cache
+C:\Users\Gluwa\source\repos\ConsoleApp1\DigitsNo\obj\Debug\DigitsNo.exe
+C:\Users\Gluwa\source\repos\ConsoleApp1\DigitsNo\obj\Debug\DigitsNo.pdb

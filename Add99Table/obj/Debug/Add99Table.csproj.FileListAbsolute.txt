@@ -1,0 +1,7 @@
+C:\Users\Gluwa\source\repos\ConsoleApp1\Add99Table\bin\Debug\Add99Table.exe.config
+C:\Users\Gluwa\source\repos\ConsoleApp1\Add99Table\bin\Debug\Add99Table.exe
+C:\Users\Gluwa\source\repos\ConsoleApp1\Add99Table\bin\Debug\Add99Table.pdb
+C:\Users\Gluwa\source\repos\ConsoleApp1\Add99Table\obj\Debug\Add99Table.csprojAssemblyReference.cache
+C:\Users\Gluwa\source\repos\ConsoleApp1\Add99Table\obj\Debug\Add99Table.csproj.CoreCompileInputs.cache
+C:\Users\Gluwa\source\repos\ConsoleApp1\Add99Table\obj\Debug\Add99Table.exe
+C:\Users\Gluwa\source\repos\ConsoleApp1\Add99Table\obj\Debug\Add99Table.pdb
