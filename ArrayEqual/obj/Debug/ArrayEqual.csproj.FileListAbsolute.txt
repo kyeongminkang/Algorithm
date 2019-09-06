@@ -1,0 +1,7 @@
+C:\Users\Gluwa\source\repos\ConsoleApp2\ArrayEqual\bin\Debug\ArrayEqual.exe.config
+C:\Users\Gluwa\source\repos\ConsoleApp2\ArrayEqual\bin\Debug\ArrayEqual.exe
+C:\Users\Gluwa\source\repos\ConsoleApp2\ArrayEqual\bin\Debug\ArrayEqual.pdb
+C:\Users\Gluwa\source\repos\ConsoleApp2\ArrayEqual\obj\Debug\ArrayEqual.csprojAssemblyReference.cache
+C:\Users\Gluwa\source\repos\ConsoleApp2\ArrayEqual\obj\Debug\ArrayEqual.csproj.CoreCompileInputs.cache
+C:\Users\Gluwa\source\repos\ConsoleApp2\ArrayEqual\obj\Debug\ArrayEqual.exe
+C:\Users\Gluwa\source\repos\ConsoleApp2\ArrayEqual\obj\Debug\ArrayEqual.pdb
